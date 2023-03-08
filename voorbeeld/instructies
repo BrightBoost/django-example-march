@@ -1,0 +1,6 @@
+1. nieuw project in pycharm
+2. django-admin startproject *naam project*
+3. cd *naam project*
+4. pip install Django
+5. python3 manage.py runserver
+
